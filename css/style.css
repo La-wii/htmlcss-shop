@@ -38,6 +38,15 @@
     padding: 1px 10px;
     font-size: 25px;
 }
+.love-special{
+    position: absolute;
+    right: 0px;
+    top: 5px;
+    color: hotpink;
+    background-color: white;
+    padding: 1px 10px;
+    font-size: 25px;
+}
 
 .box .first-img{
     width: 100%;
@@ -101,3 +110,4 @@
 .black{
     color: black;
 }
+
