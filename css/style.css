@@ -21,7 +21,7 @@
     background-color: green;
     float: left;
     border: 1px solid back;
-    margin-top: 50px;
+    margin-top: 90px;
     position: relative;
 }
 
@@ -73,4 +73,12 @@
 .green{
     background-color: green;
     left: 40px;
+}
+
+.product-description{
+    text-transform: uppercase;
+}
+
+.price{
+    color: red;
 }
