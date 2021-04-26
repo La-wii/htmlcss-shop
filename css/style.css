@@ -50,10 +50,10 @@
 
 .hover-effect{
     display: none;
-}
-
-.box:hover .first-img{
-    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
 .box:hover .hover-effect{
@@ -81,4 +81,8 @@
 
 .price{
     color: red;
+}
+
+.black{
+    color: black;
 }
