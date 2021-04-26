@@ -51,9 +51,26 @@
 .hover-effect{
     display: none;
 }
+
 .box:hover .first-img{
     display: none;
 }
+
 .box:hover .hover-effect{
     display: block;
+}
+
+.label{
+    position: absolute;
+    color: white;
+    bottom: 15px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+    left: 40px;
 }
