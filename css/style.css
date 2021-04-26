@@ -9,6 +9,12 @@
     margin: 0 auto;
 }
 
+.clearfix::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
 .box{
     height: 450px;
     width: calc(100% / 3 - 50px);
