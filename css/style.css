@@ -19,7 +19,7 @@
     height: 450px;
     width: calc(100% / 3 - 50px);
     float: left;
-    border: 1px solid back;
+    border: 1px solid black;
     margin-top: 90px;
     position: relative;
 }
